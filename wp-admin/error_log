@@ -1,0 +1,8 @@
+[29-Nov-2017 10:41:44 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 315486 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 644
+[29-Nov-2017 10:50:40 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 315486 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 644
+[29-Nov-2017 11:05:06 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 209334 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/functions.php on line 440
+[06-Dec-2017 06:36:52 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 335154 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 644
+[06-Dec-2017 06:37:31 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 335153 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 752
+[06-Dec-2017 09:48:07 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 334388 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 644
+[06-Dec-2017 20:56:32 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 335386 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 644
+[11-Dec-2017 12:36:15 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 321561 bytes) in /home/gudrunvene/public_html/wordpress/wp-includes/class-requests.php on line 644
